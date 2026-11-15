@@ -5,9 +5,9 @@
 * **Khối / Lĩnh vực:** AI Thiết bị & Edge AI
 * **Thành viên thực hiện:**
   1. Trần Đức Mạnh — MSSV: `2A202603615`
-  2. Nguyễn Anh Quân — MSSV: `[Điền MSSV]`
-  3. Lê Anh Quân — MSSV: `[Điền MSSV]`
-  4. Nguyễn Hữu Thịnh — MSSV: `[Điền MSSV]`
+  2. Nguyễn Anh Quân — MSSV: `2A202603950`
+  3. Lê Anh Quân — MSSV: `2A202603576`
+  4. Nguyễn Hữu Thịnh — MSSV: `2A202603726`
 
 ---
 
